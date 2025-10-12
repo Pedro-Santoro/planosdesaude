@@ -1,2 +1,2 @@
-# planosdesaude
-Vendas em geral
+# 🩺 O que é um plano de saúde?
+Um plano de saúde é um serviço contratado que oferece cobertura para uma ampla gama de atendimentos médicos — incluindo consultas, exames, tratamentos e internações — em troca do pagamento de uma mensalidade. Ele funciona como uma rede de proteção à saúde, permitindo que o beneficiário tenha acesso facilitado e mais ágil a cuidados médicos, muitas vezes com custos reduzidos ou totalmente cobertos, conforme as regras do plano. Além disso, pode incluir serviços adicionais como atendimento domiciliar, programas de prevenção e acompanhamento de doenças crônicas.
